@@ -180,6 +180,7 @@ export const education = [
         title: "Masters in Software Engineering",
         subtitle: "BITS, Pilani",
         details: ["CGPA  - 7.25"],
+        duration: "",
         tags: [
             "Data Structures & Algorithms",
             "Operating Systems",
